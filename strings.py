@@ -1,0 +1,10 @@
+name = "     joão         "
+name1 = "João"
+phrase = "python é muito fácil, fácil"
+fruit =  "banana"
+email = "jonhdoe@gmail.com" # string
+number_a = 1
+is_bigger = True #boolean
+number_b = 5 # numero inteiro (int)
+number_c = 0.1 #numero decimal (float)
+number_string = "10"
