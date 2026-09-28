@@ -8,3 +8,5 @@ try:
         raise NoMorePudins("Acabaram os pudins")
 except NoMorePudins as error:
     print(error)
+
+    print ("ola")
